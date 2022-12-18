@@ -1,0 +1,28 @@
+[
+    {
+        "id":1,
+        "productName":"Banana",
+        "price":5.00,
+        "photoUrl":"/imgs/banana.jpg"
+    }
+    ,
+    {
+        "id":2,
+        "productName":"Book",
+        "price":12.00,
+        "photoUrl":"/imgs/book.jpg"
+    },
+
+    {
+        "id":3,
+        "productName":"Car",
+        "price":50000.00,
+        "photoUrl":"/imgs/car.jpg"
+    }
+    , {
+        "id":4,
+        "productName":"Computer",
+        "price":6000.00,
+        "photoUrl":"/imgs/computer.jpg"
+    }
+]
